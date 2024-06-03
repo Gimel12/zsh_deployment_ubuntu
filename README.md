@@ -9,5 +9,5 @@ cd zsh_deployment_ubuntu
 sudo chmod +x zsh_auto.sh
 ./zsh_auto.sh
 sudo reboot 
-```bash
+```
 
